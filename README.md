@@ -107,6 +107,19 @@ python -m src.run_experiments
 
 Anna Marie Benzon
 
+## License
+
+The source code in `src/` is licensed under the [MIT License](LICENSE).
+
+The papers and presentation materials in `papers/` are licensed under the
+[Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
+Copyright © 2026 Anna Marie Benzon.
+
+The NASA CMAPSS dataset is not included in this repository and is not covered
+by these licenses. Users must obtain the dataset separately and comply with
+its original terms.
+
 ## Citation
 
 ```bibtex
