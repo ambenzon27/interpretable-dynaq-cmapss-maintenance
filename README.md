@@ -107,6 +107,10 @@ python -m src.run_experiments
 
 Anna Marie Benzon
 
+## Course 
+
+AI 322 (Reinforcement Learning), taught by Dr. Prospero C. Naval Jr.
+
 ## License
 
 The source code in `src/` is licensed under the [MIT License](LICENSE).
